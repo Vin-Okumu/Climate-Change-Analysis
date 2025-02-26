@@ -1,3 +1,4 @@
+# Dry Eye Disease Modeling
 This project stems from curiosity about what leads to dry eye disease. 
 Here I embark on developing a model that can link underlying parameters to identify variables that best predict the incidence of dry eye disease. 
 I explore correlations between lifestyle factors such as daily steps, sleep time, pulse measurement, blood pressure, eating and drinking habits, stress levels, medical issues such as anxiety, hypertension, asthma, etc., and any medication used with basic ocular attributes used to predict the presence of dry eye disease and ocular health in general.
