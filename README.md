@@ -7,5 +7,5 @@ By leveraging climate models, this analysis aims to test six key hypotheses rega
 
 **The dataset used in this analysis is hosted on [**Kaggle**](https://www.kaggle.com/code/vincentokumu/climate-change-modelling-r/notebook?select=Climate_Change_Indicators.csv)**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vin-Okumu/Climate_Change_Indicators/HEAD?urlpath=rstudio)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vin-Okumu/Climate-Change-Indicator-Analysis/HEAD?urlpath=rstudio)
 
