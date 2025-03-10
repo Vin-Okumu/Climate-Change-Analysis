@@ -6,3 +6,6 @@ Over the past century, anthropogenic activities—such as fossil fuel combustion
 By leveraging climate models, this analysis aims to test six key hypotheses regarding the relationships between the four variables measured for this hypothetical dataset; CO₂ concentration, global average temperature, sea level rise, and Arctic ice area coverage. Understanding these interconnections through predictive modeling is crucial for informing climate mitigation and adaptation strategies, ensuring a data-driven approach to addressing climate change challenges.
 
 **The dataset used in this analysis is hosted on [**Kaggle**](https://www.kaggle.com/code/vincentokumu/climate-change-modelling-r/notebook?select=Climate_Change_Indicators.csv)**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vin-Okumu/Climate-Change-Indicator-Analysis/HEAD?urlpath=rstudio)
+
