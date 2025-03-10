@@ -8,3 +8,6 @@ kaggle <- import("kaggle")
 kaggle$api$authenticate()
 
 kaggle$datasets$download("-d vincentokumu/Climate_Change_Indicators", path = "data", unzip = TRUE)
+
+df <- read.csv("data/your-dataset.csv")
+head(df)
